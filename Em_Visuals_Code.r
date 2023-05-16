@@ -1,9 +1,9 @@
 ##wrk.dirt <- getwd() + "DataCleaning/polls_us_election_2016_clean.csv"
-wrk.dirt <- file.path(getwd(),"DataCleaning","polls_us_election_2016_clean_v4_GOOD.csv")
+wrk.dirt <- file.path(getwd(),"DataCleaning","polls_us_election_2016_v4.csv")
 clean.data <- read.csv(wrk.dirt)
 
 #library(readr)
-#clean.data <- read_csv("polls_us_election_2016_v4_GOOD.csv")
+#clean.data <- read_csv("polls_us_election_2016_v4.csv")
 str(clean.data)
 
 ###### Univariate Observations ######
