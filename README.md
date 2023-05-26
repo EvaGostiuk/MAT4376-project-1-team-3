@@ -60,7 +60,7 @@
 
 ### Pollsters Predictive Plus/Minus Score From the 2016 US Election
 
-![Pollsters Predictive Plus/Minus Score From the 2016 US Election](https://github.com/EvaGostiuk/MAT4376/blob/master/Visualizations/EmVisualizations/Pollsters_Predictive_Plus_Minus_Score_From_The_2016_USA_Election.png?raw=true)
+![Pollsters Predictive Plus/Minus Score From the 2016 US Election](https://github.com/EvaGostiuk/MAT4376/blob/master/Visualizations/EmVisualizations/Pollsters_Predictive_Plus_Minus_Score_From_The_2016_USA_Election.jpg?raw=true)
 
 
 &nbsp;
