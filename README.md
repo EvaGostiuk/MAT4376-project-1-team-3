@@ -2,7 +2,7 @@
 
 ## How This Page Works
 
-
+DataCleaning, Documentation, Visualizations, Project 1 Final, Tasks, ReadMe
 
 ## Tasks
 
