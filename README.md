@@ -15,6 +15,13 @@
 
 &nbsp;
 
+### The States and Number of Polls (histogram)
+
+![The States and Number of Polls (histogram)](https://github.com/EvaGostiuk/MAT4376/blob/master/Visualizations/EvaVisualizations/histogram.png?raw=true)
+
+
+&nbsp;
+
 ### States and Their Grades/Bar Graph of National Polls’ Grades (states)
 
 ![States and Their Grades/Bar Graph of National Polls’ Grades (states)](https://github.com/EvaGostiuk/MAT4376/blob/master/Visualizations/EvaVisualizations/state_wheel.png?raw=true)
