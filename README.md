@@ -1,5 +1,13 @@
 # MAT4376
 
+## Tasks
+| Alli        | Eva         | Emily         |
+|    :---:    |    :----:   |     :---:     |
+| {add later} | {add later}     | {add later}   |
+
+
+## Visualizations
+
 ### The Relationships Between the Variables and Grade
 
 ![The Relationships Between the Variables and Grade](https://github.com/EvaGostiuk/MAT4376/blob/master/Visualizations/EvaVisualizations/corr_grade.png?raw=true)
