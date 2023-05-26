@@ -1,10 +1,8 @@
 # MAT4376
 
 ## Tasks
-| Alli        | Eva         | Emily         |
-|    :---:    |    :----:   |     :---:     |
-| {add later} | {add later}     | {add later}   |
 
+Located in the "[Issues](https://github.com/EvaGostiuk/MAT4376/issues)" section. 
 
 ## Visualizations
 [Visualizations can be viewed HERE](Visualizations/README.md) (/Visualizations/README.md)
