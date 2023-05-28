@@ -19,4 +19,4 @@ There are the following 7 sections we want to highlight within this file:
 
 ## Tasks
 
-Located in the "[Issues](https://github.com/EvaGostiuk/MAT4376/issues)" section. Each task has an "assignee", or person who the task was completed by. Tasks with multiple assignees were completed in collaboration.
+Located in the "[Issues](https://github.com/EvaGostiuk/MAT4376/issues)" section. Each task has an "assignee", or person who the task was completed by. Tasks with multiple assignees were completed in collaboration. There is a filter on the top right to look at specific assignees and what they have worked on. 
