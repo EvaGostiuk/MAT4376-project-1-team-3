@@ -1,8 +1,8 @@
-Cleaning:
+Cleaning: <br/>
 - One-hot-encoding for population type
 - Grades letter was replaced by normalized numeric representation, so that sorting and comparison of grades is easier later
 - smoothed data for samplesizes by creating bins and replacing values by median of the contents of the bin (had to use Fisher-Jenks algorithm because normal binning was not appropriate for the shape of the data)
-Imputation:
+<br/> Imputation: <br/>
 - Missing grade was replaced with C+ according to instructions from FiveThirtyEight
 - Any missing value in "...poll_johnson" were replaced by global mean of the column
 - Any missing value in "...poll_mcmullin " were replaced by zero because there were too many missing values to use global mean of the column
