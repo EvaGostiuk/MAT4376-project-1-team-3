@@ -11,7 +11,7 @@ There are the following 6 sections we want to highlight within this file:
   * **Visualizations** (see below)
   * README.md: This is what you are currently reading. It has links to all of the important folders/pages that contain our work for this project.
   * **project-1-team-3.pdf**: A compilation of the data dictionary and the script we used when creating the video. This is a back-up for the video in case you would like to dive deeper into a certain section. 
-  * **project-1-team-3** (video): A link to our final video that has been submitted. 
+  * [MAT4376: project-1-team-3](https://www.youtube.com/watch?v=JOZwOtblS_E) (video): A link to our final video that has been submitted.
   * Tasks (see below)
 
 ## Visualizations
