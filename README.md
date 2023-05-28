@@ -1,4 +1,4 @@
-# MAT4376
+# MAT4376: Project 1
 
 Team 3: Alli Selwah, Eva Gostiuk, Emily McDonald
 
