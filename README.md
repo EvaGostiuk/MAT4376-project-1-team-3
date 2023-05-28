@@ -4,7 +4,7 @@
 
 ## How This Page Works
 
-There are the following 6 sections we want to highlight within this file: 
+There are the following 7 sections we want to highlight within this file: 
 
   * DataCleaning: This is where all of our datasets and updates to the datasets are located. Any changes we made to the dataset was logged as a new version and is located in this folder. 
   * Documentation: This is where we have documented all of our work. Items such as the data dictionary, the persona we made for Jim, 
