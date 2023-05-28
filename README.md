@@ -1,5 +1,7 @@
 # MAT4376
 
+Team 3: Alli Selwah, Eva Gostiuk, Emily McDonald
+
 ## How This Page Works
 
 There are the following 6 sections we want to hightlight within this file: 
